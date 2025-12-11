@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Keshav</h1>
+<h1 align="center">Hi 👋, I'm Keshav Jat</h1>
 <h3 align="center">Full Stack Developer | Data Analytics Enthusiast | Building Scalable Applications</h3>
 
 <p align="center">
@@ -23,6 +23,7 @@
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -57,7 +58,20 @@
 
 ## 🌟 Featured Projects
 
-### 1. 🎯 [Task Management System](https://github.com/Keshavja29/task-management-system)
+### 1. 🌤️ [Weather Dashboard](https://github.com/Keshavja29/weather-dashboard-react)
+Real-time weather dashboard with React and OpenWeatherMap API
+- ✅ Current weather & 7-day forecast
+- ✅ City search with geolocation
+- ✅ Interactive charts & weather maps
+- ✅ Responsive design
+
+**Tech Stack:** React | Axios | Chart.js | OpenWeatherMap API
+
+**🔗 [View Code](https://github.com/Keshavja29/weather-dashboard-react)** | **📖 [Deployment Guide](https://github.com/Keshavja29/weather-dashboard-react#deployment)**
+
+---
+
+### 2. 🎯 [Task Management System](https://github.com/Keshavja29/task-management-system)
 Full-stack task management app with React, Node.js, and MongoDB
 - ✅ User Authentication & Authorization (JWT)
 - ✅ CRUD Operations with Priority Levels
@@ -66,9 +80,24 @@ Full-stack task management app with React, Node.js, and MongoDB
 
 **Tech Stack:** React | Node.js | Express | MongoDB | JWT
 
+**🔗 [View Code](https://github.com/Keshavja29/task-management-system)** | **🚀 [Deploy Guide](https://github.com/Keshavja29/task-management-system/blob/main/LIVE_DEMO.md)**
+
 ---
 
-### 2. 🛒 [E-Commerce REST API](https://github.com/Keshavja29/ecommerce-rest-api)
+### 3. 💰 [Expense Tracker](https://github.com/Keshavja29/expense-tracker-mern)
+Personal finance & expense tracker with MERN stack
+- ✅ Income/Expense tracking with categories
+- ✅ Budget management & analytics
+- ✅ Monthly reports & CSV export
+- ✅ Interactive charts & statistics
+
+**Tech Stack:** React | Redux | Node.js | Express | MongoDB
+
+**🔗 [View Code](https://github.com/Keshavja29/expense-tracker-mern)**
+
+---
+
+### 4. 🛒 [E-Commerce REST API](https://github.com/Keshavja29/ecommerce-rest-api)
 Comprehensive e-commerce backend with Django REST Framework
 - ✅ Product & Category Management
 - ✅ Shopping Cart & Order Processing
@@ -77,9 +106,11 @@ Comprehensive e-commerce backend with Django REST Framework
 
 **Tech Stack:** Python | Django | PostgreSQL | REST API | JWT
 
+**🔗 [View Code](https://github.com/Keshavja29/ecommerce-rest-api)** | **🚀 [Deploy Guide](https://github.com/Keshavja29/ecommerce-rest-api/blob/main/LIVE_DEPLOY.md)**
+
 ---
 
-### 3. 💼 [Job Portal Application](https://github.com/Keshavja29/job-portal-springboot)
+### 5. 💼 [Job Portal Application](https://github.com/Keshavja29/job-portal-springboot)
 Enterprise-grade job portal with Spring Boot
 - ✅ Job Listings & Application Management
 - ✅ Role-based Access Control (User/Employer/Admin)
@@ -87,6 +118,21 @@ Enterprise-grade job portal with Spring Boot
 - ✅ Advanced Search & Filters
 
 **Tech Stack:** Java | Spring Boot | MySQL | JWT | Swagger
+
+**🔗 [View Code](https://github.com/Keshavja29/job-portal-springboot)**
+
+---
+
+### 6. 📊 [Data Visualization Dashboard](https://github.com/Keshavja29/data-visualization-dashboard)
+Interactive data visualization dashboard with Python
+- ✅ CSV/Excel upload & processing
+- ✅ Multiple chart types (Line, Bar, Pie, Heatmap)
+- ✅ Statistical analysis & correlation
+- ✅ Export reports (PDF, PNG, CSV)
+
+**Tech Stack:** Python | Streamlit | Pandas | Plotly | NumPy
+
+**🔗 [View Code](https://github.com/Keshavja29/data-visualization-dashboard)** | **🚀 [Deploy to Streamlit](https://github.com/Keshavja29/data-visualization-dashboard/blob/main/DEPLOY_GUIDE.md)**
 
 ---
 
@@ -111,6 +157,19 @@ Enterprise-grade job portal with Spring Boot
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=keshavja29&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
+
+---
+
+## 🚀 Quick Deploy Links
+
+Deploy my projects with one click:
+
+| Project | Deploy Platform | Status |
+|---------|----------------|--------|
+| Weather Dashboard | [![Vercel](https://img.shields.io/badge/Vercel-Deploy-black?logo=vercel)](https://vercel.com/new/clone?repository-url=https://github.com/Keshavja29/weather-dashboard-react) | Ready |
+| Task Management | [![Vercel](https://img.shields.io/badge/Vercel-Deploy-black?logo=vercel)](https://vercel.com/new/clone?repository-url=https://github.com/Keshavja29/task-management-system) | Ready |
+| E-Commerce API | [![Railway](https://img.shields.io/badge/Railway-Deploy-purple?logo=railway)](https://railway.app/new/template?template=https://github.com/Keshavja29/ecommerce-rest-api) | Ready |
+| Data Dashboard | [![Streamlit](https://img.shields.io/badge/Streamlit-Deploy-red?logo=streamlit)](https://share.streamlit.io/deploy?repository=Keshavja29/data-visualization-dashboard) | Ready |
 
 ---
 
