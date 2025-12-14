@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Keshav</h1>
+<h1 align="center">Hi 👋, I'm Keshav Jat</h1>
 <h3 align="center">Full Stack Developer | Data Analytics Enthusiast | Building Scalable Applications</h3>
 
 <p align="center">
@@ -67,7 +67,7 @@ Real-time weather dashboard with React and OpenWeatherMap API
 
 **Tech Stack:** React | Axios | Chart.js | OpenWeatherMap API
 
-**[View Code](https://github.com/Keshavja29/weather-dashboard-react)**
+**[View Code](https://github.com/Keshavja29/weather-dashboard-react)** | **[🌐 Live Demo](https://weather-dashboard-react-git-main-keshavs-projects-ff4dde9b.vercel.app)**
 
 ---
 
