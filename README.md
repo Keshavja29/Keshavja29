@@ -59,11 +59,11 @@
 ## 🌟 Featured Projects
 
 ### 1. 🌤️ Weather Dashboard
-Real-time weather dashboard with React and OpenWeatherMap API
+Real-time weather dashboard with React and OpenWeatherMap API featuring dark stormy glassmorphism theme
 - ✅ Current weather & 7-day forecast
 - ✅ City search with geolocation
 - ✅ Interactive charts & weather maps
-- ✅ Responsive design
+- ✅ Modern dark glassmorphism UI
 
 **Tech Stack:** React | Axios | Chart.js | OpenWeatherMap API
 
@@ -71,7 +71,21 @@ Real-time weather dashboard with React and OpenWeatherMap API
 
 ---
 
-### 2. 🎯 Task Management System
+### 2. 📊 Data Visualization Dashboard
+Interactive data visualization dashboard with Python - Upload CSV/Excel and generate beautiful charts
+- ✅ CSV/Excel upload & processing
+- ✅ Multiple chart types (Line, Bar, Pie, Heatmap, Scatter)
+- ✅ Statistical analysis & correlation matrix
+- ✅ Export reports (PDF, PNG, CSV)
+- ✅ Real-time data filtering
+
+**Tech Stack:** Python | Streamlit | Pandas | Plotly | NumPy
+
+**[View Code](https://github.com/Keshavja29/data-visualization-dashboard)** | **[🌐 Live Demo](https://data-visualization-dashboard-cnfb.streamlit.app)**
+
+---
+
+### 3. 🎯 Task Management System
 Full-stack task management app with React, Node.js, and MongoDB
 - ✅ User Authentication & Authorization (JWT)
 - ✅ CRUD Operations with Priority Levels
@@ -84,7 +98,7 @@ Full-stack task management app with React, Node.js, and MongoDB
 
 ---
 
-### 3. 💰 Expense Tracker
+### 4. 💰 Expense Tracker
 Personal finance & expense tracker with MERN stack
 - ✅ Income/Expense tracking with categories
 - ✅ Budget management & analytics
@@ -97,7 +111,7 @@ Personal finance & expense tracker with MERN stack
 
 ---
 
-### 4. 🛒 E-Commerce REST API
+### 5. 🛒 E-Commerce REST API
 Comprehensive e-commerce backend with Django REST Framework
 - ✅ Product & Category Management
 - ✅ Shopping Cart & Order Processing
@@ -110,7 +124,7 @@ Comprehensive e-commerce backend with Django REST Framework
 
 ---
 
-### 5. 💼 Job Portal Application
+### 6. 💼 Job Portal Application
 Enterprise-grade job portal with Spring Boot
 - ✅ Job Listings & Application Management
 - ✅ Role-based Access Control
@@ -120,19 +134,6 @@ Enterprise-grade job portal with Spring Boot
 **Tech Stack:** Java | Spring Boot | MySQL | JWT | Swagger
 
 **[View Code](https://github.com/Keshavja29/job-portal-springboot)**
-
----
-
-### 6. 📊 Data Visualization Dashboard
-Interactive data visualization dashboard with Python
-- ✅ CSV/Excel upload & processing
-- ✅ Multiple chart types (Line, Bar, Pie, Heatmap)
-- ✅ Statistical analysis & correlation
-- ✅ Export reports (PDF, PNG, CSV)
-
-**Tech Stack:** Python | Streamlit | Pandas | Plotly | NumPy
-
-**[View Code](https://github.com/Keshavja29/data-visualization-dashboard)**
 
 ---
 
